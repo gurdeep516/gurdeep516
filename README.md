@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gurdeep516
+- 👋 Hi, I’m @g.s-516
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning data compilation
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me gurdeepdhanesar84@gmail.com
+- 📫 How to reach me gurdeepdhanesar84@gmail.com, gurdeepdhanesar@yahoo.com
 
 <!---
 gurdeep516/gurdeep516 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
