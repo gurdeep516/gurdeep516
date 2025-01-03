@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @g.s-516
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning data compilation
+- 🌱 I’m currently working on data compilation
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me gurdeepdhanesar84@gmail.com, gurdeepdhanesar@yahoo.com
 
